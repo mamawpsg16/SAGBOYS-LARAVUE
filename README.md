@@ -16,8 +16,8 @@ install the project dependencies:
 
 ## Compile Assets
 
-To compile the assets and enable Vue 3 support, run the following command: npm run dev
+To compile the assets and enable Vue 3 support, run the following command: `npm run dev`
 
 ## Start the Development Server
 
-Use the following command to start the Laravel development server: php artisan serve
+Use the following command to start the Laravel development server: `php artisan serve`
